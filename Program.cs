@@ -9,7 +9,7 @@ namespace Guia_1___5
             ConsoleKeyInfo cki;
             
             bool igualdad = false;
-            // Prevent example from ending if CTL+C is pressed.
+            // Evita que el programa se cierre con Control + c.
             Console.TreatControlCAsInput = true;
 
             Console.WriteLine("Apreta Control + F para salir, sino mientras te quedas acá.");
